@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\QuickHeapPool.h(54,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\QuickHeapPool.h(54,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\QuickHeapPool.h(95,1): warning C4302: '<function-style-cast>': truncation from 'void *' to 'BYTE'
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\QuickHeap.h(96,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\QuickHeap.h(96,1): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\main.cpp(9,21): warning C4595: 'operator new': non-member operator new or delete functions may not be declared inline
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\main.cpp(14,20): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\main.cpp(19,21): warning C4595: 'operator new[]': non-member operator new or delete functions may not be declared inline
+C:\Users\ivand\source\repos\QuickHeap\QuickHeap\main.cpp(24,20): warning C4595: 'operator delete[]': non-member operator new or delete functions may not be declared inline
+  QuickHeap.vcxproj -> C:\Users\ivand\source\repos\QuickHeap\x64\Debug\QuickHeap.exe
